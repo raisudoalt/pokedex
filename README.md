@@ -39,6 +39,7 @@ Pokedex > map
 Pokedex > explore viridian-forest
 Pokedex > catch pidgey
 Pokedex > inspect pidgey
+```
 
 ## Sample Run
 <img width="475" height="320" alt="image" src="https://github.com/user-attachments/assets/175b81fa-51e1-4b3f-9cf7-0f205eb61c57" />
